@@ -32,4 +32,5 @@ Installation:
 5. You should see hyperscale.pkg as an available choice along with the core and teletype mods, which will most likely already be installed
 6. Highlight hyperscale.pkg in the top screen.
 7. Install.
-8. Please note these custrom units are stereo please link Ch 1 + Ch 2 before loading the unit. (press and hold ch 1 button whilst pressing Ch 2 button - "linked" LED should light up)
+8. Please note these custom units are stereo please link Ch 1 + Ch 2 before loading the unit.
+9. (press and hold ch 1 button whilst pressing Ch 2 button - "linked" LED should light up)
