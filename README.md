@@ -25,7 +25,7 @@ Erosive https://forum.orthogonaldevices.com/t/erosive-0-1-add-grunge-grit-and-di
 
 Installation:
 
-1. Download the autogen301.pkg file
+1. Download the hyperscale.pkg file
 2. Copy to ER301/packages folder on SD card.
 3. Flick the left switch to Admin.
 4. Select Package Manager.
