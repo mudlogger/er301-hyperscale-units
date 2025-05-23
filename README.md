@@ -1,4 +1,4 @@
-# er301-hyperscale-units
+# er301 hyperscale stereo units
 This Repo contains packages i made for the Orthogonal Devices ER301 Sound Computer.
 
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
