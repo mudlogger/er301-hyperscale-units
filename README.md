@@ -25,12 +25,13 @@ Erosive https://forum.orthogonaldevices.com/t/erosive-0-1-add-grunge-grit-and-di
 
 Installation:
 
-1. Download the hyperscale.pkg file
-2. Copy to ER301/packages folder on SD card.
-3. Flick the left switch to Admin.
-4. Select Package Manager.
-5. You should see hyperscale.pkg as an available choice along with the core and teletype mods, which will most likely already be installed
-6. Highlight hyperscale.pkg in the top screen.
-7. Install.
-8. Please note these custom units are stereo please link Ch 1 + Ch 2 before loading the unit.
-9. (press and hold ch 1 button whilst pressing Ch 2 button - "linked" LED should light up)
+1. Download the hyperscale301.zip file
+2. unzip to 19 individual .pkg file units
+3. Copy all the .pkg files to ER301/packages folder on SD card.
+4. Flick the left switch to Admin.
+5. Select Package Manager.
+6. You should see the various.pkg files as an available choice along with the core and teletype mods, which will most likely already be installed
+7. Highlight the required .pkg in the top screen.
+8. Install each one individually.
+9. Please note these custom units are stereo please link Ch 1 + Ch 2 before loading the unit.
+10. (press and hold ch 1 button whilst pressing Ch 2 button - "linked" LED should light up)
