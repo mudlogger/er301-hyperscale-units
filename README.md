@@ -1,6 +1,12 @@
 # er301 hyperscale stereo units
 This Repo contains custom unit packages i made for the Orthogonal Devices ER301 Sound Computer.
 
+video links here
+
+https://youtu.be/eztGpEXggFY?si=3-IoBlIxuDak0qhB
+
+https://youtu.be/FuTrYFDV6Zs?si=qDLb_YNGGQlx4s_v
+
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
 
 NOTE: Set to 48kHz / 128smps in system settings of er301
