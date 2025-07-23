@@ -7,6 +7,8 @@ https://youtu.be/eztGpEXggFY?si=3-IoBlIxuDak0qhB
 
 https://youtu.be/FuTrYFDV6Zs?si=qDLb_YNGGQlx4s_v
 
+https://youtu.be/Zbcc6PW59So?si=mfa6WQKl4iWWfKBW
+
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
 
 NOTE: Set to 48kHz / 128smps in system settings of er301
