@@ -31,8 +31,8 @@ some extra misc packages can also be found here  https://github.com/mudlogger/er
 
 Installation:
 
-1. Download the latest hyperscale301 v1.1.zip file
-2. Unzip to 29 individual .pkg file units
+1. Download the latest hyperscale301 .zip file
+2. Unzip to individual .pkg file units
 3. Copy all the .pkg files to ER301/packages folder on SD card.
 4. Flick the left switch to Admin.
 5. Select Package Manager.
