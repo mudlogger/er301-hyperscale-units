@@ -10,6 +10,7 @@ https://youtu.be/FuTrYFDV6Zs?si=qDLb_YNGGQlx4s_v
 https://youtu.be/Zbcc6PW59So?si=mfa6WQKl4iWWfKBW
 
 Minimum ER301 firmware required is v0.6.15 : https://github.com/odevices/er-301/releases
+Firmware v0.6.14 or less will not load samples from these packages
 
 NOTE: Set to 48kHz / 128smps in system settings of er301
 
